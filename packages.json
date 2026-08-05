@@ -1,11 +1,12 @@
 [
-  { "package": "cs9",     "url": "https://github.com/niphr/cs9" },
-  { "package": "csalert", "url": "https://github.com/niphr/csalert" },
-  { "package": "csdata",  "url": "https://github.com/niphr/csdata" },
-  { "package": "csdb",    "url": "https://github.com/niphr/csdb" },
-  { "package": "csmaps",  "url": "https://github.com/niphr/csmaps" },
-  { "package": "csstyle", "url": "https://github.com/niphr/csstyle" },
-  { "package": "cstidy",  "url": "https://github.com/niphr/cstidy" },
-  { "package": "cstime",  "url": "https://github.com/niphr/cstime" },
-  { "package": "csutil",  "url": "https://github.com/niphr/csutil" }
+  { "package": "cs9",        "url": "https://github.com/niphr/cs9" },
+  { "package": "cs9example", "url": "https://github.com/niphr/cs9example" },
+  { "package": "csalert",    "url": "https://github.com/niphr/csalert" },
+  { "package": "csdata",     "url": "https://github.com/niphr/csdata" },
+  { "package": "csdb",       "url": "https://github.com/niphr/csdb" },
+  { "package": "csmaps",     "url": "https://github.com/niphr/csmaps" },
+  { "package": "csstyle",    "url": "https://github.com/niphr/csstyle" },
+  { "package": "cstidy",     "url": "https://github.com/niphr/cstidy" },
+  { "package": "cstime",     "url": "https://github.com/niphr/cstime" },
+  { "package": "csutil",     "url": "https://github.com/niphr/csutil" }
 ]
