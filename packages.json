@@ -4,6 +4,7 @@
   { "package": "csalert",    "url": "https://github.com/niphr/csalert" },
   { "package": "csdata",     "url": "https://github.com/niphr/csdata" },
   { "package": "csdb",       "url": "https://github.com/niphr/csdb" },
+  { "package": "csdocs",     "url": "https://github.com/niphr/csdocs" },
   { "package": "csmaps",     "url": "https://github.com/niphr/csmaps" },
   { "package": "csstyle",    "url": "https://github.com/niphr/csstyle" },
   { "package": "cstidy",     "url": "https://github.com/niphr/cstidy" },
